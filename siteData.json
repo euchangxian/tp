@@ -70,7 +70,9 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
+        "planned-enhancements": "Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -114,10 +116,23 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "pawfection-user-guide": "PawFection User Guide",
+        "pawfection-user-guide": "Pawfection User Guide",
         "quick-start": "Quick start",
         "features": "Features",
-        "entry-management": "Entry Management",
+        "adding-an-animal-add": "Adding an animal: add",
+        "program-usage-help-help": "Program usage help: help",
+        "listing-all-animals-list": "Listing all animals: list",
+        "deleting-an-animal-delete": "Deleting an animal: delete",
+        "editing-an-animal-edit": "Editing an animal: Edit",
+        "searching-an-animal-search": "Searching an animal: Search",
+        "adds-a-task-to-an-animal-addtask": "Adds a task to an animal: addtask",
+        "deletes-a-task-of-an-animal-deletetask": "Deletes a task of an animal: deletetask",
+        "marking-a-task-as-done-mark": "Marking a task as done: mark",
+        "unmarking-a-task-as-done-unmark": "Unmarking a task as done: unmark",
+        "reset-all-tasks-reset": "Reset all tasks: reset",
+        "viewing-animal-details": "Viewing animal details",
+        "saving-the-data": "Saving the data",
+        "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
@@ -128,7 +143,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "pawfection": "Pawfection"
       },
       "headingKeywords": {}
     },
@@ -136,7 +151,7 @@
       "src": "team/bkjwjason.md",
       "title": "Jason's Project Portfolio Page",
       "headings": {
-        "project-pawfection": "Project: Pawfection"
+        "project-pawfection": "Project: PawFection"
       },
       "headingKeywords": {}
     },
@@ -144,7 +159,7 @@
       "src": "team/blizzeracz.md",
       "title": "Loysius's Project Portfolio Page",
       "headings": {
-        "project-pawfection": "Project: Pawfection"
+        "project-pawfection": "Project: PawFection"
       },
       "headingKeywords": {}
     },
@@ -152,7 +167,7 @@
       "src": "team/euchangxian.md",
       "title": "Chang Xian's Project Portfolio Page",
       "headings": {
-        "project-y2direct": "Project: Y2Direct"
+        "project-pawfection": "Project: PawFection"
       },
       "headingKeywords": {}
     },
@@ -160,7 +175,7 @@
       "src": "team/junnengsoo.md",
       "title": "Jun Neng's Project Portfolio Page",
       "headings": {
-        "project-y2direct": "Project: Y2Direct"
+        "project-pawfection": "Project: PawFection"
       },
       "headingKeywords": {}
     },
@@ -168,7 +183,7 @@
       "src": "team/wjayee.md",
       "title": "Ja Yee's Project Portfolio Page",
       "headings": {
-        "project-y2direct": "Project: Y2Direct"
+        "project-pawfection": "Project: PawFection"
       },
       "headingKeywords": {}
     },
