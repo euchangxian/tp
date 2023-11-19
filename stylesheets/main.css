@@ -13,6 +13,16 @@ mark {
   width: 100%;
 }
 
+.table {
+    width: 80%;
+    min-height: 230px;
+    text-align: center;
+}
+
+hr {
+    margin-bottom: 40px;
+}
+
 /* Scrollbar */
 
 .slim-scroll::-webkit-scrollbar {
